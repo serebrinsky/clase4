@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#miParrafo{
+    font-size: 40px;
+    color: blueviolet;
+    margin-left: 10px;
+}
+
+.cajas{
+    background-color: rgb(212, 212, 7);
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
